@@ -9,6 +9,6 @@ Atualização 3 - Tive MUITOS bugs para lançar, mas deu certo kkkk
 
 Atualização 4 - Adicionei as bolhas (é muito viciante)
 
-Atualização 5 - Lancei para o público
+Atualização 5 - Lancei para o público, tomara que venda e ajude as pessoas...
 
 Atualização 6 - Por vir
