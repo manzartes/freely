@@ -5,7 +5,7 @@ Atualização 1 - Lancei o software em um host local e ele está funcionando de 
 
 Atualização 2 - O Freely tem a capacidade de entender o que falo e me ajudar de verdade, que legal! Realmente consigo ajudar outras pessoas agora.
 
-Atualização 3 - Tive MUITOS bugs para fazer ele sair do host local e ir a público em um link de verdade na Hotmart, mas deu certo depois de horas de muito energético kkkk 
+Atualização 3 - Tive MUITOS bugs para fazer ele sair do host local e ir a público em um link de verdade na Hotmart, mas deu certo depois de horas e muito energético de laranja kkkk 
 
 Atualização 4 - Adicionei as bolhas (é muito viciante)
 
