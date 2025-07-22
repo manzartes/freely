@@ -11,4 +11,6 @@ Atualização 4 - Adicionei as bolhas (é muito viciante)
 
 Atualização 5 - Lancei para o público, tomara que eu consiga ajudar as pessoas
 
-Atualização 6 - Por vir
+Atualização 6 - Melhorei a interface e adicionei a funcionalidade de o usuário fazer upload de imagens e também de gravar áudio para o Freely (obs: deu muito trabalho, mas valeu a pena kk) - 22/07/2025
+
+Atualização 7 - Por vir
